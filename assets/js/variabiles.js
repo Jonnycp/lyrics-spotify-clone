@@ -1,4 +1,4 @@
-const songPath = "../assets/audio/LifeCouldBeaDream.mp3";
+const songPath = "./assets/audio/LifeCouldBeaDream.mp3";
 const coverPath = "https://i.scdn.co/image/ab67616d00001e021c58f5beb4c8740df65d8e6a";
 const songName = "Life Could Be a Dream";
 const artistName = "The Sh-Booms";
